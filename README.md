@@ -5,15 +5,8 @@ Unofficial android client for The Economist! It'll bring you each fresh edition 
 have the daily updates(blog and news) to get updated with the tortuous world,previous editions are also avaiable in case you have missed 
 some certain incident.
 
-![news section][news]
-![world this week][world-this-week]
-![article][article] 
-![image][article-image-view]
-![download previous editions][download-previous-editions]
-![settings][settings]
-
 # Thanks
-This project is inspired by [calibre][calibre] and [WordPress-Android][WordPress-Android-github]
+This project is inspired by [calibre][calibre-github] and [WordPress-Android][WordPress-Android-github]
 
 Also many thanks to seaking who come up with the amazing name.The invisible hand is a wellknown metaphor in econoics,which we bought the idea here
 to allude to The Economist,or free market it has always supported.FYI,in George RR Martin's master piece "A song of ice and fire",King's hand could 
@@ -21,6 +14,19 @@ roughly be interpreted as Prime Minister,that is to say,government and politics,
 
 # License
 The Hand is Licensed under the GNU General Public License version 2.
+
+# Show
+![news section][news]
+
+![world this week][world-this-week]
+
+![article][article] 
+
+![image][article-image-view]
+
+![download previous editions][download-previous-editions]
+
+![settings][settings]
 
 
 [news]: https://raw.githubusercontent.com/TheHandApp/TheHand/master/art/news.jpg
