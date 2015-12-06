@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">The Hand</string>
+
+    <string name="News">News</string>
+    <string name="ThisWeek">"The world this week"</string>
+    <string name="Leaders">"Leaders"</string>
+    <string name="Letters">"Letters"</string>
+    <string name="Briefing">"Briefing"</string>
+    <string name="US">"United States"</string>
+    <string name="Americas">"The Americas"</string>
+    <string name="Asia">"Asia"</string>
+    <string name="China">"China"</string>
+    <string name="MEAA">"Middle East and Africa"</string>
+    <string name="Europe">"Europe"</string>
+    <string name="Britain">"Britain"</string>
+    <string name="International">"International"</string>
+    <string name="Business">"Business"</string>
+    <string name="Finance">"Finance and economics"</string>
+    <string name="Science">"Science and technology"</string>
+    <string name="Books">"Books and arts"</string>
+    <string name="Obituary">"Obituary"</string>
+    <string name="Figures">"Economic and financial indicators"</string>
+
+    <string name="share_action">Share article</string>
+    <string name="openInBrowser_action">Open in browser</string>
+    <string name="article_share_subject">Shared from %s</string>
+    <string name="article_share_link">Share article</string>
+    <string name="title_photo_viewer">%1$d / %2$d</string>
+    <string name="reader_toast_err_view_image">Unable to view image</string>
+    <string name="no_new_issue">Patience:each fresh issue is due on Friday</string>
+    <string name="internet_error">Internet unstable,try agin later</string>
+
+    <string name="edition_title">The Economist editions</string>
+    <string name="settings_title">Settings</string>
+    <string name="menu_settings">settings</string>
+
+    <string name="settings_previous_editions">Previous editions</string>
+    <string name="settings_get_previous_editions">Download</string>
+    <string name="settings_get_previous_summary">select and download previous editions</string>
+
+    <string name="app_summary">Android client for The Economist</string>
+    <string name="app_project">TheHandApp</string>
+    <string name="app_version">Version</string>
+    <string name="app_author">Author  @tianyaqu</string>
+    <string name="app_copyright">Copyright @%1$s %2$s</string>
+    <string name="app_licence">Licensed under GPLv2.0 </string>
+
+    <string name="settings_about">About</string>
+    <string name="settings_update">Check update</string>
+
+    <string name="settings_new_version">New Version: </string>
+    <string name="settings_no_new_version">Current version is the latest: </string>
+    <string name="settings_update_cancel">Cancel</string>
+    <string name="settings_update_now">Download</string>
+
+    <string name="pref_key_settings_root">settings_root_key</string>
+    <string name="pref_key_settings_get_previous">settings_get_previous_key</string>
+    <string name="pref_key_settings_about">settings_about_key</string>
+    <string name="pref_key_settings_update">settings_update_key</string>
+</resources>

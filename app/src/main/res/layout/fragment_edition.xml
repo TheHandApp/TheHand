@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="84dp"
+            android:paddingBottom="24dp">
+
+    <com.tianyaqu.thehand.app.widget.CheckableImageView
+            android:id="@+id/editionCover"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight = "7"/>
+    <TextView
+            android:id="@+id/editionDate"
+            android:layout_width="match_parent"
+            android:layout_height="27dp"
+            android:layout_marginTop="20dip"
+            android:layout_marginBottom="20dip"
+            android:textColor="@color/black"
+            android:textSize="17dp"
+            android:visibility="visible"
+            android:gravity="center"
+            android:layout_below="@id/editionCover"/>
+</LinearLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:key="@string/pref_key_settings_root">
+
+    <PreferenceCategory
+        android:title="@string/settings_previous_editions">
+        <Preference android:title="@string/settings_get_previous_editions"
+                    android:key="@string/pref_key_settings_get_previous"
+                    android:summary="@string/settings_get_previous_summary"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:title="@string/settings_about">
+
+        <Preference android:title="@string/app_name"
+                    android:key="@string/pref_key_settings_about" />
+
+        <Preference android:title="@string/settings_update"
+                    android:key="@string/pref_key_settings_update" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

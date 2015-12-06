@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+
+    <com.tianyaqu.thehand.app.ArticleWebView
+            android:id="@+id/article_webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/article_detail_margin"
+            android:layout_marginRight="@dimen/article_detail_margin"
+            android:layout_marginTop="@dimen/margin_small"
+            android:scrollbars="vertical" />
+</LinearLayout>

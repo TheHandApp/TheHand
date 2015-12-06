@@ -1,0 +1,31 @@
+h1, h2,h3 { line-height: 1.2em; }
+
+body {
+    background-color: #f6f6f6;
+    word-wrap: break-word;
+    overflow: auto;
+    overflow-x: hidden;
+    font-family: Merriweather, serif; 
+    font-weight: 400;
+}
+
+a { text-decoration: none; color: ##006699}
+
+img {
+    max-width:100%;
+}
+
+img.alignleft {
+    float:left;
+    max-width:120px;
+    margin:0 10px 5px 0;
+    border:1px solid #ccc;
+    background:#fff;padding:2px;
+}
+
+p, div, li { line-height: 1.6em; font-size: 1.0em; }
+body, p, div, a { word-wrap: break-word; }
+
+.topic {
+    color: #e3120b;
+}

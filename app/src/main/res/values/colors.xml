@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3C515C</color>
+    <color name="primary_dark">#142E3C</color>
+    <color name="accent">#40C4FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="translucent">#80000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="background_color">#fff5f5f5</color>
+    <color name="eco_red">#e3120b</color>
+    <color name="dark_blue">#006b98</color>
+    <color name="process_bar_color">@color/accent</color>
+    <color name="notifier_color">@color/accent</color>
+
+
+    <color name="cardview_color">@color/accent</color>
+    <color name="cardview_clicked_color">@color/eco_red</color>
+
+
+    <color name="grey_darken_10">#668eaa</color>
+
+    <color name="grey_dark">#2e4453</color>
+    <color name="grey_light">#f3f6f8</color>
+    <color name="grey_lighten_20">#c8d7e1</color>
+    <color name="grey_lighten_30">#e9eff3</color>
+
+    <color name="light_gray">@color/grey_lighten_30</color>
+    <color name="gray">@color/grey_lighten_20</color>
+
+    <color name="semi_transparent_grey_dark">#B32e4453</color>
+    <color name="semi_transparent_blue_light">#cc78dcfa</color>
+    <color name="translucent_grey_dark">#802e4453</color>
+    <color name="translucent_grey_lighten_10">#80a8bece</color>
+    <color name="translucent_grey_lighten_20">#80c8d7e1</color>
+    <color name="translucent_grey_lighten_30">#80e9eff3</color>
+    <color name="translucent_grey">#80888888</color>
+
+</resources>

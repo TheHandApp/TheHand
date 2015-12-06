@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorAccent">@color/accent_material_dark</item>
+    </style>
+
+
+    <style name = "PhotoViewTheme" parent="AppBaseTheme">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+
+    <style name="notifier_view">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/notifier_background</item>
+        <item name="android:minHeight">25.0dip</item>
+    </style>
+
+</resources>
